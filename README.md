@@ -1,6 +1,6 @@
 # 📊 CPI Inflation Analysis – India
 
-This project analyzes monthly **Consumer Price Index (CPI)** data for India using Excel and Power Query to uncover key economic trends and drivers of inflation.
+This project analyzes monthly **Consumer Price Index (CPI)** data for India using Excel to uncover key economic trends and drivers of inflation.
 
 ## 🔍 Objective
 - Explore seasonality and trend patterns in CPI data
