@@ -18,10 +18,6 @@ This project analyzes monthly **Consumer Price Index (CPI)** data for India usin
 - Found strong correlation between fuel inflation and global crude prices
 - Suggested stock optimization strategies for retail partners
 
-## 📁 Files
-- `CPI_Inflation_Dashboard.xlsx`: Interactive Excel dashboard
-- `Raw_CPI_Data.csv`: Cleaned and transformed CPI dataset
-
 ## 📬 Contact
 For queries or collaboration:  
 📧 mrasaifi1999@gmail.com  
